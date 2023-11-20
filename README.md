@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hi there 👋
 
 I'm [Alberto Boccolini](https://www.github.com/albertoboccolini).
 An university student in Computer Science at the University of
