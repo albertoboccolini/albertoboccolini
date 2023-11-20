@@ -1,6 +1,6 @@
 # Hi there :milky_way:
 
-I'm [Alberto Boccolini](https://www.instagram.com/alberto.boccolini).
+I'm **Alberto Boccolini**.
 An university student in Computer Science at the University of Perugia with experience in:
 
 - Software application development. :computer:
