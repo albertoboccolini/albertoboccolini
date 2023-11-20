@@ -5,6 +5,6 @@ An university student in Computer Science at the University of Perugia with expe
 
 - Software application development. :computer:
 - Interactive web interfaces. :earth_americas:
-- Full-stack developer. :zap:
+- Full-stack development. :zap:
 
 Passionate about computer science with skills in object-oriented programming languages and excellent team-working abilities.
