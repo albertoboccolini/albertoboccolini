@@ -1,10 +1,9 @@
 # Hi there :milky_way:
 
 I'm **Alberto Boccolini**.
-An university student in Computer Science at the University of Perugia with experience in:
+An university student in Computer Science at the University of Perugia,
+currently working on [@Slope](https://slope.it) with experience in:
 
-- Software application development. :computer:
-- Interactive web interfaces. :earth_americas:
+- Software and Web Application development. :computer:
+- Mobile and Cross-Platform development. :earth_americas:
 - Full-stack development. :zap:
-
-Passionate about computer science with skills in object-oriented programming languages and excellent team-working abilities.
