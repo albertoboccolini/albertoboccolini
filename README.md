@@ -6,4 +6,4 @@ currently working on [@Slope](https://slope.it) with experience in:
 
 - Full-stack development. :computer:
 - Cross-Platform development. :earth_americas:
-- AI development. :zap:
+- AI development. 🧠
