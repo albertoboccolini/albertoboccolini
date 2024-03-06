@@ -2,7 +2,7 @@
 
 I'm **Alberto Boccolini**.
 An university student in Computer Science at the University of Perugia,  
-currently working on [@Slope](https://slope.it) (as Collaborator) with experience in:
+currently working on [@Slope](https://slope.it) (as Collaborator) and [@taco](https://github.com/albertoboccolini/taco), with experience in:
 
 - Full-stack development. :computer:
 - Cross-Platform development. :earth_americas:
