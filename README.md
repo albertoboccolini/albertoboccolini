@@ -1,8 +1,8 @@
 # Hi there :milky_way:
 
 I'm **Alberto Boccolini**.
-An university student in Computer Science at the University of Perugia,  
-currently working at [@Slope](https://slope.it) (as Collaborator), with experience in:
+An University CS student at [@unipg](https://www.unipg.it/),  
+currently building [@UNICO](https://theunico.it) and [@Slope](https://slope.it) (as Collaborator), with experience in:
 
 - Full-stack development. :computer:
 - Cross-Platform development. :earth_americas:
